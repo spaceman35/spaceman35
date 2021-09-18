@@ -15,7 +15,7 @@ I'm Major Sean Kelly, US Space Force. This is the way.
 ### Hobbies
 - 🏕 any and all outdoor adventures
 - 🚵🏼‍♂️ bike and board sports
-- 🍜ramen & cooking in general
+- 🍜 ramen & cooking in general
 - 🔭 astrophotography
 - 📡 amateur radio
 - 🖨 3D printing
