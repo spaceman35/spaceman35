@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Maj Sean Kelly, US Space Force. This is the way.
+I'm Major Sean Kelly, US Space Force. This is the way.
 
 ### BIO
 - 💻 BS in **Electrical Engineering** from the **University of Pittsburgh**, 2012
@@ -12,6 +12,15 @@ I'm Maj Sean Kelly, US Space Force. This is the way.
 - 💬 Ping me about **model-based systems engineering**, **CubeSats**, or **USAF/USSF projects**.
 - 📫 Reach me: <a href="https://www.instagram.com/srkellyscope/">Instagram</a> or <a href="mailto:seanrkelly35@gmail.com">email.</a>
 
+### HOBBIES
+- any and all outdoor adventures
+- bike and board sports
+- ramen & cooking in general
+- astrophotography
+- amateur radio
+- 3D printing
+- all things cyberpunk
+<!--
 <details>
 <summary><b> My Work Experience</b></summary>
 <table>
@@ -51,3 +60,4 @@ I'm Maj Sean Kelly, US Space Force. This is the way.
   </tbody>
 </table>
 </details>
+-->
