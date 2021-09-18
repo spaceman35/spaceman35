@@ -13,13 +13,13 @@ I'm Major Sean Kelly, US Space Force. This is the way.
 - 📫 Reach me: <a href="https://www.instagram.com/srkellyscope/">Instagram</a> or <a href="mailto:seanrkelly35@gmail.com">email.</a>
 
 ### Hobbies
-- any and all outdoor adventures
-- bike and board sports
-- ramen & cooking in general
-- astrophotography
-- amateur radio
-- 3D printing
-- all things cyberpunk
+- 🏕 any and all outdoor adventures
+- 🚵🏼‍♂️ bike and board sports
+- 🍜ramen & cooking in general
+- 🔭 astrophotography
+- 📡 amateur radio
+- 🖨 3D printing
+- 👨🏼‍🎤 all things cyberpunk
 <!--
 <details>
 <summary><b> My Work Experience</b></summary>
