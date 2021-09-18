@@ -9,6 +9,6 @@ I'm Maj Sean Kelly, US Space Force. Welcome to my page!
 - ⚙️ I use most often: `.f3d`, `.stl`, `.r`, `.html`, `.css`, `.psd`, `.m`
 - 🌍 I'm mostly active within the **CyberDeck Community**
 - 🌱 Learning all about **3D Printing**, **custom PCBs**, and **SQL**
-- 💬 Ping me about **model-based systems engineering**, **CubeSats**, 
-- 📫 Reach me: instagram.com/srkellyscope
+- 💬 Ping me about **model-based systems engineering**, **CubeSats**, or **USAF/USSF projects**.
+- 📫 Reach me: <a href="instagram.com/srkellyscope">Instagram</a> or <a href="mailto:seanrkelly35@gmail.com">email</a>
 - ⚡️ Fun fact: 
