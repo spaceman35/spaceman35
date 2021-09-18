@@ -10,7 +10,9 @@ I'm Major Sean Kelly, US Space Force. This is the way.
 - 🌍 I'm mostly active within the **CyberDeck Community**.
 - 🌱 Learning all about **3D Printing**, **custom PCBs**, and **SQL**.
 - 💬 Ping me about **model-based systems engineering**, **CubeSats**, or **USAF/USSF projects**.
-- 📫 Reach me: <a href="https://www.instagram.com/srkellyscope/">Instagram</a> or <a href="mailto:seanrkelly35@gmail.com">email.</a>
+- 📫 Reach me: <a href="https://www.instagram.com/srkellyscope/">Instagram</a> or <a href="mailto:seanrkelly35@gmail.com">email.
+- <a href="docs/official_bio.pdf">Resume</a> - <a href="">Official Bio</a>
+</a>
 
 ### Hobbies
 - 🏕 any and all outdoor adventures
