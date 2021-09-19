@@ -8,7 +8,7 @@ I'm Major Sean Kelly, US Space Force. This is the way.
 - 🔭 I'm currently working at **AFOTEC Detachment 5** at Edwards AFB, CA.
 - ⚙️ I use most often: `.f3d`, `.stl`, `.r`, `.html`, `.css`, `.psd`, `.m`
 - 🌍 I'm mostly active within the **CyberDeck Community**.
-- 🌱 Learning all about **3D Printing**, **custom PCBs**, **Jekyll**, and **Ruby**.
+- 🌱 Learning all about **3D Printing**, **custom PCBs**, **Jekyll**, **Jekyll**, and **Ruby**.
 - 💬 Ping me about **model-based systems engineering**, **CubeSats**, or **USAF/USSF projects**.
 - 📫 Reach me: <a href="https://www.instagram.com/srkellyscope/">Instagram</a> or <a href="mailto:seanrkelly35@gmail.com">email.
 - <a href="docs/official_bio.pdf">Resume</a> - <a href="">Official Bio</a>
