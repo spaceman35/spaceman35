@@ -9,7 +9,7 @@ I'm Major Sean Kelly, US Space Force.
 - ⚙️ I use most often: `.f3d`, `.stl`, `.r`, `.html`, `.css`, `.psd`, `.m`, `.mdzip`
 - 🌍 I'm mostly active within the **CyberDeck Community**.
 - 🌱 Learning all about **3D printing**, **custom PCBs**, **Jekyll**, and **Ruby**.
-- 💬 Ping me about **model-based systems engineering**, **CubeSats**, or **USAF/USSF projects**.
+- 💬 Ping me about **model-based systems engineering**, **CubeSats**, or **USAF/USSF software projects**.
 - 📫 Reach me: <a href="https://www.instagram.com/srkellyscope/">Instagram</a> or <a href="mailto:seanrkelly35@gmail.com">email.
 - <a href="docs/official_bio.pdf">Official bio</a>
 </a>
