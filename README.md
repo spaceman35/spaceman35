@@ -11,6 +11,7 @@ I'm Major Sean Kelly, US Space Force.
 - 🌱 Learning all about **3D printing**, **custom PCBs**, **Jekyll**, and **Ruby**.
 - 💬 Ping me about **model-based systems engineering**, **CubeSats**, or **USAF/USSF software projects**.
 - 📫 Reach me: <a href="https://www.instagram.com/srkellyscope/">Instagram</a> or <a href="mailto:seanrkelly35@gmail.com">email.
+- 📧 Subscribe to my Olmsted Experience Newsletter: <a href="https://www.spaceman.style/">spacemanstyle</a>.
 - <a href="docs/official_bio.pdf">Official bio</a>
 </a>
 
