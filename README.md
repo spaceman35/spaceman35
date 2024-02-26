@@ -14,7 +14,7 @@ If you'd like to follow along on my adventures in Korea, subscribe to my substac
 - 🚀 MS in **Space Systems Engineering** from the **Air Force Institute of Technology**, 2021
 - 🧑🏼‍🚀 **Test Pilot School**, Space Test, 2022
 - 👨‍🔬 My graduate school research was in **CubeSat design** and how **Model-Based Systems Engineering** tools can accelerate the development process. See my thesis <a href="docs/CubeSat thesis.pdf">here</a> and a published paper <a href="docs/CubeSat paper.pdf">here.</a>
-- 🇰🇷 I'm currently studying Political Science at **Sogang University** in Seoul, South Korea as an [Olmsted Scholar](https://olmstedfoundation.org)
+- 🇰🇷 I'm currently studying Political Science at **Sogang University** in Seoul, South Korea as an [Olmsted Scholar](https://olmstedfoundation.org).
 - ⚙️ I use most often: `.f3d`, `.stl`, `.r`, `.html`, `.css`, `.psd`, `.m`, `.mdzip`
 - 🌍 I'm mostly active within the **CyberDeck Community**.
 - 🌱 Learning all about **3D printing**, **custom PCBs**, **Jekyll**, and **Ruby**.
