@@ -1,4 +1,4 @@
-##seankelly.space
+# seankelly.space
 
 ### Hi there 👋
 I'm Major Sean Kelly, US Space Force.
