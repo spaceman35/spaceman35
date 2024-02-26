@@ -7,6 +7,7 @@ If you'd like to follow along on my adventures in Korea, subscribe to my substac
 - 🛩️ Test Engineer [VC-25B, T-7A, KC-135]
 - 🚀 Satellite & Launch Vehicle processing and integration
 - 📡 Radar engineer [modeling airborne radar systems]
+- 📜 <a href="docs/official_bio.pdf">Official bio</a>
   
 ### Education
 - 💻 BS in **Electrical Engineering** from the **University of Pittsburgh**, 2012
