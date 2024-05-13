@@ -11,6 +11,7 @@ If you'd like to follow along on my adventures in Korea, subscribe to my substac
   
 ### Education
 - 🇰🇷 I'm currently studying Political Science at **Sogang University** in Seoul, South Korea as an [Olmsted Scholar](https://olmstedfoundation.org).
+    - Currently working on an [R Shiny App] (https://www.seankelly.space/mil-effectiveness-app.html).
 - 💻 BS in **Electrical Engineering** from the **University of Pittsburgh**, 2012
 - 🚀 MS in **Space Systems Engineering** from the **Air Force Institute of Technology**, 2021
 - 🧑🏼‍🚀 **Test Pilot School**, Space Test, 2022
