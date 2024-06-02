@@ -4,9 +4,8 @@ If you'd like to follow along on my adventures in Korea, subscribe to my substac
 
 ### Professional Experience
 - 🛰️ Model-Based Systems Engineering [focused on CubeSat architecture design]
-- 🛩️ Test Engineer [VC-25B, T-7A, KC-135]
 - 🚀 Satellite & Launch Vehicle processing and integration
-- 📡 Radar engineer [modeling airborne radar systems]
+- 🛩️ Test Engineer [VC-25B, T-7A, KC-135]
 - 📜 <a href="docs/official_bio.pdf">Official bio</a>
   
 ### Education
