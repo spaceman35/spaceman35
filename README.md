@@ -1,11 +1,13 @@
 ### Hi there 👋
 I'm Major Sean Kelly, US Space Force.
-If you'd like to follow along on my adventures in Korea, subscribe to my substack at <a href="http://www.spaceman.style">spaceman.style</a> or view the archive [here](https://spaceman35.github.io/SpacemanStyle/). My personal old-school website is <a href="/personal.html">here.</a>
+If you'd like to follow along on my adventures in Korea, subscribe to my substack at <a href="http://www.spaceman.style">spaceman.style</a> or view the archive [here](https://spaceman35.github.io/SpacemanStyle/). 
+My personal old-school website is <a href="/personal.html">here.</a>
+See what I'm currently using and recommending <a href="/uses.html">here.</a>
 
 ### Professional Experience
 - 🚀 Satellite & Launch Vehicle processing and integration
 - 🛰️ Model-Based Systems Engineering [focused on CubeSat architecture design]
-- 🛩️ Test Engineer [VC-25B, T-7A, KC-135]
+- 🛩️ Test Engineer [VC-25B, T-7A, KC-135, etc.]
 - 📜 <a href="docs/official_bio.pdf">Official bio</a>
   
 ### Education
