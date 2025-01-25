@@ -29,5 +29,3 @@ If you'd like to follow along on my adventures in Korea, subscribe to my substac
 ### Contact
 - <a href="https://www.instagram.com/srkellyscope/">Instagram</a>
 - <a href="mailto:seanrkelly35@gmail.com">email</a>
-- +82 010-9691-9427
-- KakaoID: spaceman35
