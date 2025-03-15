@@ -6,14 +6,13 @@ If you have any recommendations for me, I'd love to hear them!
 ## Thinking
 - Essence of Decision: Explaining the Cuban Missile Crisis (Graham Allison & Philip Zelikow)
 - Thinking in Bets (Annie Duke)
-
+- [Deep Work (Cal Newport)](/books/Newport_Cal_Deep_Work.md)
 
 ## Military 
 - Nineteen Stars: A Study in Military Character & Leadership (Edgar Puryear, Jr.)
 
 ## Leadership
 - Essence of Decision: Explaining the Cuban Missile Crisis (Graham Allison & Philip Zelikow)
-
 
 ## Philosophy
 -

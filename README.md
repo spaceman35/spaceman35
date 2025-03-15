@@ -9,7 +9,7 @@ Lived in: Korea, Washington D.C., Jordan, Iraq, Japan, Texas, Pennsylvania, Cali
 
 - See [what I'm up to now.](now.md)
 - See what I'm [currently using and recommending.](uses.md)
-- See my [book list with notes.](books.md)
+- See my [book list with notes.](/books.md)
 - See my [markdown recipe database (UNDER CONSTRUCTION).](recipes.md)
 
 
