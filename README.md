@@ -2,6 +2,8 @@
 I'm Sean Kelly, currently a major in the US Space Force.
 If you'd like to follow along on my adventures in Korea, subscribe to my Olmsted Scholar newsletter at <a href="http://www.spaceman.style">spaceman.style</a> or view the archive [here](newsletter_archive.md). 
 
+[About me](about.md)
+
 See [what I'm up to now.](now.md)
 
 See what I'm [currently using and recommending.](uses.md)
