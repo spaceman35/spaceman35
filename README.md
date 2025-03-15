@@ -29,8 +29,8 @@ Lived in: Korea, Washington D.C., Jordan, Iraq, Japan, Texas, Pennsylvania, Cali
 ### Hobbies
 - 🏕 any and all outdoor adventures
 - 🚵🏼‍♂️ cycling (for commuting, for fun, and for fitness)
-- 🍜 [cooking](/recipes.md)
-- 🔭 [astrophotography](/astrophotography/astrophotography.md)
+- 🍜 [cooking](/recipes/recipe_db.md)
+- 🔭 [astrophotography](/astrophotography/gallery.md)
 - 🖨 3D printing
 - 👨🏼‍🎤 all things cyberpunk
 - 🖌️ urban sketching
