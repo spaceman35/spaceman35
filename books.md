@@ -1,4 +1,7 @@
 ## Reading List
+
+UNDER CONSTRUCTION - I just started putting this together and am not finished with the first version yet...I've gotta look through my book library and narrow down what I want to include here. 
+
 I read a lot and am not against putting down a book if I realize it's a waste of time. Here, I'll link to my current favorite books and articles in each category to hopefully give you an idea of what to read next. For some books, I create more detailed notes pages and those will be linked as applicable.
 
 If you have any recommendations for me, I'd love to hear them! And I have all of these books in physical form, so if you'd like to borrow any of them and you work/live near me, let me know.
