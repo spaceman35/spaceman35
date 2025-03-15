@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Sean Kelly, currently a major in the US Space Force.
 
-I love learning, new experiences, building things, and solving problems. 
+I love learning, building things, and solving problems. 
 
 I'm currently assigned to Seoul, South Korea as an [Olmsted Scholar](https://olmstedfoundation.org). If you'd like to follow along on my adventures in Korea, subscribe to my Olmsted Scholar newsletter at <a href="http://www.spaceman.style">spaceman.style</a> or view the archive [here](newsletter_archive.md). 
 
