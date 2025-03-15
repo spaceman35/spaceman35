@@ -19,6 +19,6 @@ I'm also preparing to move to Washington, DC this summer. I'm starting a new job
 
 #### Travels
 - I recently got back from a trip to the Philippines and a trip to Singapore! The food was incredible in both places, but the sheer variety of delicious food in Singapore was life-changing. 
-![singapore](/docs/singapore.jpeg)
-![philippines](/docs/philippines.jpeg)
+![singapore](/pics/singapore.jpeg)
+![philippines](/pics/philippines.jpeg)
 
