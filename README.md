@@ -1,8 +1,10 @@
 ### Hi there 👋
 I'm Major Sean Kelly, US Space Force.
-If you'd like to follow along on my adventures in Korea, subscribe to my substack at <a href="http://www.spaceman.style">spaceman.style</a> or view the archive [here](https://spaceman35.github.io/SpacemanStyle/). 
-My personal old-school website is <a href="/personal.html">here.</a>
-See what I'm currently using and recommending <a href="/uses.html">here.</a>
+If you'd like to follow along on my adventures in Korea, subscribe to my Olmsted Scholar newsletter at <a href="http://www.spaceman.style">spaceman.style</a> or view the archive [here](https://spaceman35.github.io/SpacemanStyle/). 
+
+See what I'm up to now <a href="/now.md">here.</a>
+
+See what I'm currently using and recommending <a href="/uses.md">here.</a>
 
 ### Professional Experience
 - 🚀 Satellite & Launch Vehicle processing and integration
@@ -29,5 +31,4 @@ See what I'm currently using and recommending <a href="/uses.html">here.</a>
 - 👨🏼‍🎤 all things cyberpunk
 
 ### Contact
-- <a href="https://www.instagram.com/srkellyscope/">Instagram</a>
 - <a href="mailto:seanrkelly35@gmail.com">email</a>
