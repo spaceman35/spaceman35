@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Astrophotography"
+---
+
 ## Astrophotography samples
 If you'd like any of these for printing, send me an email and I'll send you the high-res file for free. They look fantastic on metallic paper via mpix!
 
