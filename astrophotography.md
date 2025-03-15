@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Astrophotography</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 10px;
+            padding: 10px;
+        }
+        .gallery img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .caption {
+            font-size: 14px;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Astrophotography</h1>
+    <div class="gallery">
+        <div>
+            <img src="photo1.jpg" alt="Photo 1">
+            <div class="caption">Caption for Photo 1</div>
+        </div>
+        <div>
+            <img src="photo2.jpg" alt="Photo 2">
+            <div class="caption">Caption for Photo 2</div>
+        </div>
+        <div>
+            <img src="photo3.jpg" alt="Photo 3">
+            <div class="caption">Caption for Photo 3</div>
+        </div>
+        <div>
+            <img src="photo4.jpg" alt="Photo 4">
+            <div class="caption">Caption for Photo 4</div>
+        </div>
+        <div>
+            <img src="photo5.jpg" alt="Photo 5">
+            <div class="caption">Caption for Photo 5</div>
+        </div>
+        <div>
+            <img src="photo6.jpg" alt="Photo 6">
+            <div class="caption">Caption for Photo 6</div>
+        </div>
+        <div>
+            <img src="photo7.jpg" alt="Photo 7">
+            <div class="caption">Caption for Photo 7</div>
+        </div>
+        <div>
+            <img src="photo8.jpg" alt="Photo 8">
+            <div class="caption">Caption for Photo 8</div>
+        </div>
+        <div>
+            <img src="photo9.jpg" alt="Photo 9">
+            <div class="caption">Caption for Photo 9</div>
+        </div>
+        <div>
+            <img src="photo10.jpg" alt="Photo 10">
+            <div class="caption">Caption for Photo 10</div>
+        </div>
+    </div>
+</body>
+</html>
