@@ -3,8 +3,7 @@ I read a lot and am not against putting down a book if I realize it's a waste of
 
 If you have any recommendations for me, I'd love to hear them! 
 
-- Reading list with hyperlinks to notes + ratings for each...should I also include journal articles here too? I think I will, at least for the international relations section
-- each book will just be a cover and link to that page's review/notes/rating/extra info
+- Reading list with hyperlinks to notes + ratings for each + cover art (maybe I auto resize each cover to a standard size?)
 
 
 ## Thinking
