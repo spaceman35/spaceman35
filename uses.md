@@ -1,13 +1,15 @@
----
-layout: default
-title: Uses"
----
+fill this page out later
+
+### Hardware
+- Thinkpad T14S
+- OnePlus 13
+
+## Tools and Technologies
 
 
-### Placeholder
+## For fun
+- Brompton 6 speed folding bike
+- Canyon Ultimate carbon fiber road bike
+- Priority 600 commuter bike
 
-Placeholder text for main page (all using markdown).
 
-## Tools and Technologies I Use
-text for this page
-make into bullet lists, etc.
