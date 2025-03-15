@@ -1,7 +1,8 @@
 # EXTREME OWNERSHIP
 _Jocko Willink, 2015_
 
-# EXTREME OWNERSHIP BY JOCKO WILLINK
+#### Rating:
+#### Review:
 
 **Extreme Ownership** is written by Jocko Willink, a SEAL leader who explains how the lessons he learned in combat are relevant to leaders in any role. The importance of the team is emphasized—you are only as good as the men or women behind you. This book provides fundamental leadership lessons through Willink’s insightful combat experiences and stories. Willink examines a number of leadership concepts that have been proven effective in both combat and business scenarios.
 
