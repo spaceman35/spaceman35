@@ -21,3 +21,5 @@ This repo hosts backups of my [Substack](https://www.spaceman.style) newsletters
 [20231202 - Autumn in Korea](/SpacemanStyle/20231202.pdf)  
 [20240118 - Winter Adventures](/SpacemanStyle/20240118.pdf)  
 [20240228 - Winter's End](/SpacemanStyle/20240228.pdf)
+
+[20241229 - Grand Slam](/SpacemanStyle/20241229.md)
