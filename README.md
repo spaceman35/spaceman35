@@ -28,12 +28,13 @@ Lived in: Korea, Washington D.C., Jordan, Iraq, Japan, Texas, Pennsylvania, Cali
 
 ### Hobbies
 - 🏕 any and all outdoor adventures
-- 🚵🏼‍♂️ bike and board sports
+- 🚵🏼‍♂️ cycling (for commuting, for fun, and for fitness)
 - 🍜 [cooking](/recipes.md)
 - 🔭 [astrophotography](/astrophotography.md)
 - 🖨 3D printing
 - 👨🏼‍🎤 all things cyberpunk
 - 🖌️ urban sketching
+- ⌚️ watches,👖 Japanese denim, 🥾 boots
 
 ### Contact
 - <a href="mailto:seanrkelly35@gmail.com">email</a>
