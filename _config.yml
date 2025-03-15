@@ -1,0 +1,23 @@
+# Basic site info
+title: "Sean's Space"
+description: "A simple GitHub Pages site using Jekyll and Markdown"
+
+# Enable Jekyll with a basic theme
+theme: minima  # You can use other GitHub Pages-supported themes
+
+# Markdown settings
+markdown: GFM  # GitHub Flavored Markdown
+highlighter: rouge  # Syntax highlighting for code blocks
+
+# Enable a base URL (if your site is hosted under a subdirectory)
+baseurl: "/my-github-site"  # Change to your repository name if applicable
+url: "https://yourusername.github.io"  # Your GitHub Pages URL
+
+# Navigation settings (optional)
+permalink: pretty  # Makes URLs look clean
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
