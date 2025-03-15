@@ -3,7 +3,7 @@ I'm Sean Kelly, currently a major in the US Space Force.
 
 I love trying new experiences, building things, and generally solving problems. 
 
-Lived in: Korea, Washington D.C., Jordan, Iraq, Japan, Texas, Pennsylvania, California, Germany, Ohio, Virginia, Alabama...I move a lot!
+Lived in: Korea, Washington D.C., Jordan, Iraq, Japan, Texas, Pennsylvania, California, Germany, Ohio, Virginia, Alabama...I move often!
 
 - See [what I'm up to now.](now.md)
 - See what I'm [currently using and recommending.](uses.md)
