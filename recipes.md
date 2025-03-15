@@ -1,1 +1,2 @@
 ### Paprika markdown recipes here
+I keep going back and forth between using cookbooks and using my own recipes stored in markdown/text files on my computer. I get so much more satisfaction looking at a recipe from a book, but I'd like all the recipes that I absolutely love in one central place. This is a slow burning project that I'll get back to as time allows - 15 Mar 2025
