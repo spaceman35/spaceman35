@@ -1,8 +1,6 @@
 ### Hi there 👋
 I'm Sean Kelly, currently a major in the US Space Force.
 
-<img src="/docs/headshot.jpg" alt="prof headshot" width="300">
-
 I love learning, new experiences, building things, and solving problems. 
 
 I'm currently assigned to Seoul, South Korea as an [Olmsted Scholar](https://olmstedfoundation.org). If you'd like to follow along on my adventures in Korea, subscribe to my Olmsted Scholar newsletter at <a href="http://www.spaceman.style">spaceman.style</a> or view the archive [here](newsletter_archive.md). 
@@ -32,10 +30,11 @@ Lived in: Korea, Washington D.C., Jordan, Iraq, Japan, Texas, Pennsylvania, Cali
 - 🏕 any and all outdoor adventures
 - 🚵🏼‍♂️ bike and board sports
 - 🍜 [cooking](/recipes.md)
-- 🔭 [astrophotography](/astrophotography.html)
+- 🔭 [astrophotography](/astrophotography.md)
 - 🖨 3D printing
 - 👨🏼‍🎤 all things cyberpunk
 - 🖌️ urban sketching
 
 ### Contact
 - <a href="mailto:seanrkelly35@gmail.com">email</a>
+<img src="/docs/headshot.jpg" alt="prof headshot" width="300">
