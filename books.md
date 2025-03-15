@@ -1,10 +1,7 @@
 ## Reading List
-I read a lot and am not against putting down a book if I realize it's a waste of time. Here, I'll link to my favorite books and articles in each category to hopefully give you an idea of what to read next. 
+I read a lot and am not against putting down a book if I realize it's a waste of time. Here, I'll link to my favorite books and articles in each category to hopefully give you an idea of what to read next. For some books, I create more detailed notes pages and those will be linked as applicable.
 
 If you have any recommendations for me, I'd love to hear them! 
-
-- Reading list with hyperlinks to notes + ratings for each + cover art (maybe I auto resize each cover to a standard size?)
-
 
 ## Thinking
 - Essence of Decision: Explaining the Cuban Missile Crisis (Graham Allison & Philip Zelikow)
@@ -35,4 +32,7 @@ If you have any recommendations for me, I'd love to hear them!
 - A Short History of Nearly Everything (Bill Bryson)
 
 ## Fiction
+- 
+
+## Graphic Novels
 - 
