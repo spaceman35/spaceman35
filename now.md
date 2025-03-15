@@ -5,16 +5,20 @@
 
 I'm currently finishing up graduate school in Sogang University and trying to enjoy the spring weather and upcoming cherry blossom season to the fullest!
 
-### Moving
-- Preparing to move to Washington, DC this summer! I'm starting a new job at the Pentagon and I'm very excited to get back to a normal military job (as great as these last few years have been!!)
+I'm also preparing to move to Washington, DC this summer. I'm starting a new job at the Pentagon and I'm very excited to get back to a normal military job (as great as these last few years have been!!)
 
-### Travels
+#### Currently reading: 
+- "The Second Mountain" by David Brooks
+- lots of papers for grad school...the best of the best may make it to the [reading list page.](/books.md)
+
+#### Currently watching 
+- Severance season 2
+
+#### Currently listening to
+- I'm currently super into 윤하 (Younha) out of South Korea. She brings what's best about japanese rock into the Korean space, and her songs have lately been about scientific topics! My favorite song right now is [Point Nemo.](https://www.youtube.com/watch?v=GCKSrC6XVOk)
+
+#### Travels
 - I recently got back from a trip to the Philippines and a trip to Singapore! The food was incredible in both places, but the sheer variety of delicious food in Singapore was life-changing. 
 ![singapore](/docs/singapore.jpeg)
 ![philippines](/docs/philippines.jpeg)
 
-### Currently reading 
-- "The Second Mountain" by David Brooks
-
-### Currently watching 
-- Severance season 2
