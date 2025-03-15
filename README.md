@@ -2,9 +2,10 @@
 I'm Major Sean Kelly, US Space Force.
 If you'd like to follow along on my adventures in Korea, subscribe to my Olmsted Scholar newsletter at <a href="http://www.spaceman.style">spaceman.style</a> or view the archive [here](https://spaceman35.github.io/SpacemanStyle/). 
 
-See what I'm up to now <a href="/now.md">here.</a>
+See what I'm up to [now.](now.md)
 
-See what I'm currently using and recommending <a href="/uses.md">here.</a>
+See what I'm currently using and recommending [here.](uses.md)
+
 
 ### Professional Experience
 - 🚀 Satellite & Launch Vehicle processing and integration

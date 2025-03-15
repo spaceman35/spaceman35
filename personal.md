@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Uses</title>
-</head>
-<body>
-    <h1>placeholder for later</h1>
-    <p>Update this section later ....</p>
-</body>
-</html>
+### Placeholder
+
+Placeholder text for main page (all using markdown).
