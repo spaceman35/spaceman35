@@ -10,7 +10,7 @@ Lived in: Korea, Washington D.C., Jordan, Iraq, Japan, Texas, Pennsylvania, Cali
 - See [what I'm up to now.](now.md)
 - See what I'm [currently using and recommending.](uses.md)
 - See my [book list with notes.](books.md)
-- See my [markdown recipe database.](recipes.md)
+- See my [markdown recipe database (UNDER CONSTRUCTION).](recipes.md)
 
 
 ### Professional Experience
@@ -20,7 +20,7 @@ Lived in: Korea, Washington D.C., Jordan, Iraq, Japan, Texas, Pennsylvania, Cali
 - 📜 <a href="docs/official_bio.pdf">Official bio</a>
   
 ### Education
-- 🇰🇷 Currently studying Political Science & Diplomacy at **Sogang University** in Seoul, South Korea
+- 🇰🇷 Currently studying Political Science & Diplomacy (focused on international security) at **Sogang University** in Seoul, South Korea
 - 🧑🏼‍🚀 **USAF Test Pilot School**, Space Test, 2022
 - 🚀 MS in **Space Systems Engineering** from the **Air Force Institute of Technology**, 2021
 - 💻 BS in **Electrical Engineering** from the **University of Pittsburgh**, 2012
