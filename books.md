@@ -13,6 +13,7 @@ If you have any recommendations for me, I'd love to hear them! And I have all of
 - [Thinking Fast and Slow (Daniel Kahneman)](/books/Kahneman_Daniel_Thinking_Fast_and_Slow.md)
 
 ## Leadership
+- Supreme Command (Elliot Cohen)
 - [Leaders Eat Last (Simon Sinek)](/books/Sinek_Simon_Leaders_Eat_Last.md)
 - [Extreme Ownership (Jocko Willink)](/books/Willink_Jocko_Extreme_Ownership.md)
 - [Nineteen Stars: A Study in Military Character & Leadership (Edgar Puryear, Jr.)](/books/Puryear_Edgar_Nineteen_Stars.md)
@@ -21,20 +22,26 @@ If you have any recommendations for me, I'd love to hear them! And I have all of
 - [Meditations (Marcus Aurelius)](/books/Aurelius_Marcus_Meditations.md)
 
 ## International Relations
--
+- Disunited Nations (Peter Zeihan)
+- The Ugly American (William Lederer & Eugene Burdick)
 
 ## Personal Growth
-- 
+- Algorithms to Live By (Brian Christian)
 
 ## Technology
+- The New Fire: War, Peace, and Democracy in the Age of AI (Ben Buchanan & Andrew Imbrie); FINALLY, a book about AI that isn't tech-bro garbage
 - [Foreign Affairs: The Path to AI Arms Control America and China Must Work Together to Avert Catastrophe](https://www.foreignaffairs.com/united-states/henry-kissinger-path-artificial-intelligence-arms-control)
 
 ## History
 - [The Killer Angels (Michael Shaara)](/books/Shaara_Michael_The_Killer_Angels.md)
 - [A Short History of Nearly Everything (Bill Bryson)](/books/Bryson_Bill_Short_History.md)
+- Two Koreas (Don Oberdorfer)
 
 ## Fiction
-- 
+- Anna Karenina (Leo Tolstoy); the most beautiful prose I've ever read
+- Siddhartha (Herman Hesse); this book changed my life when I read it in High School
+- East of Eden (John Steinbeck)
+- Count of Monte Cristo (Alexandre Dumas)
 
 ## Graphic Novels
 - Akira
