@@ -37,4 +37,6 @@ Lived in: Korea, Washington D.C., Jordan, Iraq, Japan, Texas, Pennsylvania, Cali
 
 ### Contact
 - <a href="mailto:seanrkelly35@gmail.com">email</a>
+
+
 <img src="/docs/headshot.jpg" alt="prof headshot" width="300">
