@@ -2,6 +2,7 @@
 - Thinkpad T14S
 - M2 mac mini
 - OnePlus 13
+- Kindle Paperwhite (old) and 2024 Kindle Scribe
 
 ## Software
 - GitHub
