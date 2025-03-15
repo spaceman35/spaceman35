@@ -128,4 +128,4 @@ A leader must:
 
 ---
 
-This summary provides the core princi
+
