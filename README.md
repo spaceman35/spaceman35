@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Sean Kelly, currently a major in the US Space Force.
 
-<img src="/docs/headshot.jpg" alt="prof headshot" width="300" height="200">
+<img src="/docs/headshot.jpg" alt="prof headshot" width="300">
 
 I love learning, new experiences, building things, and solving problems. 
 
