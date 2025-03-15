@@ -30,7 +30,7 @@ Lived in: Korea, Washington D.C., Jordan, Iraq, Japan, Texas, Pennsylvania, Cali
 - 🏕 any and all outdoor adventures
 - 🚵🏼‍♂️ cycling (for commuting, for fun, and for fitness)
 - 🍜 [cooking](/recipes.md)
-- 🔭 [astrophotography](astrophotography/astrophotography.md)
+- 🔭 [astrophotography](/astrophotography/astrophotography.md)
 - 🖨 3D printing
 - 👨🏼‍🎤 all things cyberpunk
 - 🖌️ urban sketching
