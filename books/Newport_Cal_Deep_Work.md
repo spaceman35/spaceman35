@@ -2,6 +2,9 @@
 ## Rules for Focused Success in a Distracted World
 _Cal Newport, 2016_
 
+#### Rating:
+#### Review:
+
 ### Part I: The Idea
 - Deep Work is valuable
 - Deep Work is rare
