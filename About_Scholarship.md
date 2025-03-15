@@ -35,12 +35,4 @@ From the Olmsted Foundation’s website:
 
 More information about the Olmsted Scholar Program can be found at the foundation’s website: [https://olmstedfoundation.org/](https://olmstedfoundation.org/)
 
----
-
-## Subscribe to Spaceman Style
-
-This newsletter documents a USSF Olmsted Scholar experiencing Seoul... 스페이스맨 스타일 (spaceman style)
-
-[Subscribe](https://www.spaceman.style/subscribe)
-
 
