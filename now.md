@@ -2,13 +2,12 @@
 
 *last updated on Mar 15, 2025 from Seoul, South Korea*
 
-
 I'm currently finishing up graduate school in Sogang University and trying to enjoy the spring weather and upcoming cherry blossom season to the fullest!
 
 I'm also preparing to move to Washington, DC this summer. I'm starting a new job at the Pentagon and I'm very excited to get back to a normal military job (as great as these last few years have been!!)
 
 #### Currently reading: 
-- "The Second Mountain" by David Brooks
+- **The Second Mountain** (David Brooks)
 - lots of papers for grad school...the best of the best may make it to the [reading list page.](/books.md)
 
 #### Currently watching 
