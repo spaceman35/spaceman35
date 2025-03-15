@@ -13,6 +13,7 @@ If you have any recommendations for me, I'd love to hear them!
 
 ## Leadership
 - Essence of Decision: Explaining the Cuban Missile Crisis (Graham Allison & Philip Zelikow)
+- [Extreme Ownership (Jocko Willink)](/books/Willink_Jocko_Extreme_Ownership.md)
 
 ## Philosophy
 -
