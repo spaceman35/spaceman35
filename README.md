@@ -6,8 +6,6 @@ I'm currently assigned to Seoul, South Korea as an [Olmsted Scholar](https://olm
 - See [what I'm up to now.](now.md)
 - See what I'm [currently using and recommending.](uses.md)
 - See my [book list with notes.](/books.md)
-- See my [markdown recipe database (UNDER CONSTRUCTION).](recipes.md)
-
 
 ### Professional Experience
 - 🚀 Satellite & Launch Vehicle processing and integration
