@@ -7,6 +7,7 @@ I'm currently finishing up graduate school in Sogang University and trying to en
 I'm also preparing to move to Washington, DC this summer. I'm starting a new job at the Pentagon and I'm very excited to get back to a normal military job (as great as these last few years have been!!)
 
 #### Currently reading: 
+- **The New Fire: War, Peace, and Democracy in the Age of AI** (Ben Buchanan & Andrew Imbrie)
 - **The Second Mountain** (David Brooks)
 - lots of papers for grad school...the best of the best may make it to the [reading list page.](/books.md)
 
