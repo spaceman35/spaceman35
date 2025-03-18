@@ -1,6 +1,6 @@
 ## What I'm up to these days...
 
-*last updated on Mar 15, 2025 from Seoul, South Korea*
+*last updated on Mar 19, 2025 from Seoul, South Korea*
 
 I'm currently finishing up graduate school in Sogang University and trying to enjoy the spring weather and upcoming cherry blossom season to the fullest!
 
@@ -15,10 +15,6 @@ I'm also preparing to move to Washington, DC this summer. I'm starting a new job
 
 #### Currently listening to
 - I'm currently super into 윤하 (Younha) out of South Korea. She brings what's best about Japanese rock into the Korean space, and her songs have lately been about scientific topics! My favorite song right now is [Point Nemo.](https://www.youtube.com/watch?v=GCKSrC6XVOk)
-
-<audio id="music" src="/music/08. 포인트 니모.mp3"></audio>
-<button onclick="document.getElementById('music').play()">Play Music</button>
-
 
 <audio controls>
   <source src="/music/08. 포인트 니모.mp3" type="audio/mp3">
