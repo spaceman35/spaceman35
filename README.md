@@ -1,11 +1,7 @@
 ### Hi there 👋
-I'm Sean Kelly, currently a major in the US Space Force.
-
-I love learning, building things, and solving problems. 
+I'm Sean Kelly, currently a major in the US Space Force who loves learning, building things, and solving problems. 
 
 I'm currently assigned to Seoul, South Korea as an [Olmsted Scholar](https://olmstedfoundation.org). If you'd like to follow along on my adventures in Korea, subscribe to my Olmsted Scholar newsletter at <a href="http://www.spaceman.style">spaceman.style</a> or view the archive [here](newsletter_archive.md). 
-
-Lived in: Korea, Washington D.C., Jordan, Iraq, Japan, Texas, Pennsylvania, California, Germany, Ohio, Virginia, Alabama...I move often!
 
 - See [what I'm up to now.](now.md)
 - See what I'm [currently using and recommending.](uses.md)
@@ -17,7 +13,7 @@ Lived in: Korea, Washington D.C., Jordan, Iraq, Japan, Texas, Pennsylvania, Cali
 - 🚀 Satellite & Launch Vehicle processing and integration
 - 🛰️ Model-Based Systems Engineering [focused on CubeSat architecture design]
 - 🛩️ Operational Test Engineer [VC-25B, T-7A, KC-46A, etc.]
-- 📜 <a href="docs/official_bio.pdf">Official bio</a>
+- 📜 <a href="docs/official_bio.pdf">Military bio/resume</a>
   
 ### Education
 - 🇰🇷 Currently studying Political Science & Diplomacy (focused on international security) at **Sogang University** in Seoul, South Korea
@@ -35,6 +31,21 @@ Lived in: Korea, Washington D.C., Jordan, Iraq, Japan, Texas, Pennsylvania, Cali
 - 👨🏼‍🎤 all things cyberpunk
 - 🖌️ urban sketching
 - ⌚️ watches,👖 Japanese denim, 🥾 boots
+
+### Lived in 
+- Korea
+- Washington D.C.
+- Jordan
+- Iraq
+- Japan
+- Texas
+- Pennsylvania
+- California
+- Germany
+- Ohio
+- Virginia
+- Alabama
+- ...
 
 ### Contact
 - <a href="mailto:seanrkelly35@gmail.com">email</a>
