@@ -2,9 +2,9 @@
 
 UNDER CONSTRUCTION - I just started putting this together and am not finished with the first version yet...I've gotta look through my book library and narrow down what I want to include here. 
 
-I read a lot and am not against putting down a book if I realize it's a waste of time. Here, I'll link to my current favorite books and articles in each category to hopefully give you an idea of what to read next. For some books, I create more detailed notes pages and those will be linked as applicable.
+I  love to write notes in and highlight my books, but I haven't had a good practice of going back through them to capture the good bits. This will be my motivation to go back and start capturing some of the notes from my favorite nonfiction books, and while I'm at it, it might give you some ideas of what to read next. If I've done the effort to capture some notes from a book, those titles will be hyperlinked to their note page.
 
-If you have any recommendations for me, I'd love to hear them! And I have all of these books in physical form, so if you'd like to borrow any of them and you work/live near me, let me know.
+I recommend checking out your local libary or local book shop if you can -- Amazon has enough of our money. Or if you live near me, ask to borrow one as I have all of these in physical format. Finally, if you have any recommendations for me, I'd love to hear them!
 
 ## Thinking & Strategy
 - [Essence of Decision: Explaining the Cuban Missile Crisis (Graham Allison & Philip Zelikow)](/books/Zelikow_Allison_Essence_of_Decision.md)

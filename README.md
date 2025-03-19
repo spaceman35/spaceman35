@@ -1,3 +1,5 @@
+ <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 ### Hi there 👋
 I'm Sean Kelly, currently a major in the US Space Force who loves learning, building things, and solving problems. 
 
