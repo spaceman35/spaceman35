@@ -30,20 +30,6 @@ I'm currently assigned to Seoul, South Korea as an [Olmsted Scholar](https://olm
 - 🖌️ urban sketching
 - ⌚️ watches,👖 Japanese denim, 🥾 boots
 
-### Lived in 
-- Korea
-- Washington D.C.
-- Jordan
-- Iraq
-- Japan
-- Texas
-- Pennsylvania
-- California
-- Germany
-- Ohio
-- Virginia
-- Alabama
-- ...
 
 ### Contact
 - <a href="mailto:seanrkelly35@gmail.com">email</a>
