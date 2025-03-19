@@ -22,11 +22,12 @@ I'm currently assigned to Seoul, South Korea as an [Olmsted Scholar](https://olm
 
 ### Hobbies
 - 🏕 any and all outdoor adventures
-- 🚵🏼‍♂️ cycling (for commuting, for fun, and for fitness)
+- 🚵🏼‍♂️ cycling (commuting, fun, and fitness)
 - 🍜 [cooking](/recipes/recipe_db.md)
 - 🔭 [astrophotography](/astrophotography/gallery.md)
 - 🖨 3D printing
 - 👨🏼‍🎤 all things cyberpunk
+- 🛜 old school internet (it's still alive!)
 - 🖌️ urban sketching
 - ⌚️ watches,👖 Japanese denim, 🥾 boots
 
