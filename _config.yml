@@ -5,3 +5,5 @@ include:
   - "*.md"
   - "_posts"
 permalink: pretty
+plugins:
+  - jekyll-seo-tag
