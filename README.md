@@ -35,4 +35,3 @@ I'm currently assigned to Seoul, South Korea as an [Olmsted Scholar](https://olm
 - <a href="mailto:seanrkelly35@gmail.com">email</a>
 
 
-<img src="/pics/headshot.jpg" alt="prof headshot" width="300">
