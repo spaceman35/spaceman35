@@ -24,7 +24,7 @@ I'm currently assigned to Seoul, South Korea as an [Olmsted Scholar](https://olm
 
 ### Hobbies
 - 🏕 any and all outdoor adventures
-- 🚵🏼‍♂️ cycling (commuting, fun, and fitness)
+- 🚵🏼‍♂️ [cycling](/SpacemanStyle/20241229.md) (commuting, fun, and fitness)
 - 🍜 [cooking](/recipes/recipe_db.md)
 - 🔭 [astrophotography](/astrophotography/gallery.md)
 - 🖨 3D printing
