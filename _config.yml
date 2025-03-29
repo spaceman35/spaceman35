@@ -1,6 +1,5 @@
 # Basic site info
 title: "Sean's space"
-description: "A simple GitHub Pages site using Jekyll and Markdown"
 include:
   - "*.md"
   - "_posts"
