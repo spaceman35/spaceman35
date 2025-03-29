@@ -12,7 +12,7 @@ I'm also preparing to move to Washington, DC this summer. I'm starting a new job
 - lots of papers for grad school...the best of the best may make it to the [reading list page.](/books.md)
 
 #### Currently watching 
-- Severance season 2
+- 폭싹 속았수다 (When Life Gives You Tangerines) - starring IU and Park Bo-Gum...it's so good so far!!
 
 #### Currently listening to
 - I'm currently super into 윤하 (Younha) out of South Korea. She brings what's best about Japanese rock into the Korean space, and her songs have lately been about scientific topics! My favorite song right now is [Point Nemo.](https://www.youtube.com/watch?v=GCKSrC6XVOk)
