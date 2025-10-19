@@ -1,18 +1,16 @@
 ## What I'm up to these days...
 
-*last updated on Mar 19, 2025 from Seoul, South Korea*
+*last updated on Oct 19, 2025 from Washington, D.C.*
 
-I'm currently finishing up graduate school in Sogang University and trying to enjoy the spring weather and upcoming cherry blossom season to the fullest!
-
-I'm also preparing to move to Washington, DC this summer. I'm starting a new job at the Pentagon and I'm very excited to get back to a normal military job (as great as these last few years have been!!)
+I'm currently working at the Pentagon as part of the Space Force Secretariat staff. It's a busy job, but one where I can actually influence positive changes across our space enterprise, so I'm excited for this challenge. It's quite 
 
 #### Currently reading: 
 - **The New Fire: War, Peace, and Democracy in the Age of AI** (Ben Buchanan & Andrew Imbrie)
 - **The Second Mountain** (David Brooks)
-- lots of papers for grad school...the best of the best may make it to the [reading list page.](/books.md)
+- lots of international security papers, some rereads from grad school...the best of the best may make it to the [reading list page.](/books.md)
 
 #### Currently watching 
-- 폭싹 속았수다 (When Life Gives You Tangerines) - starring IU and Park Bo-Gum...it's so good so far!!
+- Nothing at the moment
 
 #### Currently listening to
 - I'm currently super into 윤하 (Younha) out of South Korea. She brings what's best about Japanese rock into the Korean space, and her songs have lately been about scientific topics! My favorite song right now is [Point Nemo.](https://www.youtube.com/watch?v=GCKSrC6XVOk)
