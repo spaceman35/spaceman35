@@ -3,13 +3,15 @@
 - M2 mac mini
 - OnePlus 13
 - Kindle Paperwhite (for reading everywhere)
-- 2024 Kindle Scribe (for notes, grahic novels, academic papers, and reference/study books)
+- Kindle Scribe (for notes, grahic novels, academic papers, and reference/study books)
 
 ## Software
 - GitHub
 - VS Code
 - R
-- Firefox with ublock origin
+- Brave Browser
+- Fusion 360
+- Prusa Slicer
 - Linux Mint
 - Synology DSM
 
@@ -20,12 +22,12 @@
 
 ## Photo
 - Ricoh GRIII
-- Sony a7 III
+- Sony a7III
 
 ## Music
 - FiiO M11 plus ESS DAP
 - Sony WH-1000XM4 for travel/out and about
+- Campfire Audio Holocene IEMs
 - Audeze LCD-2 for dedicated listening at home
 - RME ADI-2 DAC powers the LCD-2 when I want to get lost in the music
-
 
