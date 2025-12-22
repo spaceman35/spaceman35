@@ -16,8 +16,6 @@ I'm currently working at the Pentagon as part of the Space Force Secretariat sta
 - Every December, I relisten to a short story called *The Shepherd*, read by Frederick Forsyth for CBC Radio. It's a perfect christmas story for military or aviation nerds :P 
 <audio controls src="/music/The Shepherd - Frederick Forsyth - read by Alan Maitland from CBC Radio.mp3" type = "audio/mp3" title="The Shepherd"></audio>
 
-#### Travels
-- I recently got back from a trip to the Philippines and a trip to Singapore! The food was incredible in both places, but the sheer variety of delicious food in Singapore was life-changing. 
-![singapore](/pics/singapore.jpeg)
-![philippines](/pics/philippines.jpeg)
+#### Projects
+- I recently purchased a 3D printer after not having one for my years in Korea, and it's so much fun! I'll post a few of the projects here as I work on some ideas. I'm currently printing an organizational system for my garage tool chests called Gridfinity
 
