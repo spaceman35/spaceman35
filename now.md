@@ -13,9 +13,8 @@ I'm currently working at the Pentagon as part of the Space Force Secretariat sta
 - Nothing at the moment
 
 #### Currently listening to
-- Every December, I relisten to a short story called *The Shepherd*, read by Frederick Forsyth for CBC Radio. It's a perfect christmas story for military or aviation nerds :P 
-<audio controls src="/music/The Shepherd - Frederick Forsyth - read by Alan Maitland from CBC Radio.mp3" type = "audio/mp3" title="The Shepherd"></audio>
+- currently listening to...:
+<audio controls src="/music/.mp3" type = "audio/mp3" title="Title"></audio>
 
 #### Projects
-- I recently purchased a 3D printer after not having one for my years in Korea, and it's so much fun! I'll post a few of the projects here as I work on some ideas. I'm currently printing an organizational system for my garage tool chests called Gridfinity
-
+- I recently purchased a 3D printer after not having one for my years in Korea, and it's so much fun! I'll post a few of the projects here as I work on some ideas. I'm currently printing an organizational system for my garage tool chests called Gridfinity. (more detail here)
